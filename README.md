@@ -1,13 +1,14 @@
+<!-- HERO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1f1f1f&height=180&section=header&text=Salamath%20Faiha&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>Associate Software Engineer · Full Stack Developer</b>
+  <b>Associate Software Engineer · Full Stack Developer · AI Enthusiast</b>
 </p>
 
 <p align="center">
-  Building real-world systems with clean architecture and scalable design.
+  Building scalable web systems, clean APIs, and modern UI experiences.
 </p>
 
 <p align="center">
@@ -18,33 +19,37 @@
 ---
 
 ## 👨‍💻 About Me
+
 - 🎓 Final Year IT Undergraduate – Uva Wellassa University  
 - 💼 Associate Software Engineer – Takitro Digital Agency  
-- 🧠 Focused on Full Stack Development & System Design  
-- ⚙️ Passionate about building scalable web applications  
-- 🎯 Goal: Become a strong Software Engineer in industry
+- 🧩 Full Stack Developer (Laravel + React + Next.js)  
+- 🤖 Interested in AI tools & system automation  
+- 🎯 Goal: Become a strong Full Stack + AI Engineer  
 
 ---
 
-## 🚀 What I Do
-- Full Stack Web Development  
-- Backend API Development  
-- Database Design & Optimization  
-- UI Development with modern frameworks  
-- Basic AI tool integration  
+## ⚙️ Current Focus
+
+- Full Stack Web Applications  
+- REST API Development  
+- Database Design & Optimization (MySQL)  
+- UI Development (React / Next.js)  
+- AI Tool Integration in real systems  
 
 ---
 
 ## 💼 Experience
-- 🏢 Takitro Digital Agency – Associate Software Engineer  
-- 🏢 ITx247 Solutions – Software Engineering Intern  
+
+**Associate Software Engineer** – Takitro Digital Agency  
+**Software Engineering Intern** – ITx247 Solutions  
 
 ---
 
 ## 🚀 Featured Projects
+
 - 🛒 POS System – Laravel + MySQL  
 - 🚚 Transport Management System  
-- 🌐 Corporate Website – Takitro  
+- 🌐 Corporate Website (Production Project)  
 - 🤖 AI Helpdesk System (University Project)  
 
 ---
@@ -57,17 +62,14 @@ React · Next.js · JavaScript · GSAP · shadcn/ui
 ### Backend
 Laravel · PHP · REST APIs
 
-### Database & Cloud
+### Database
 MySQL · Firebase · Supabase
 
 ### Tools
-Git · GitHub · WordPress · Trello · Google Docs
+Git · GitHub · WordPress · Trello · Google Docs · VS Code
 
-### AI Tools (Learning)
-OpenCode AI · Kimi K2.6
-
-### Architecture
-Monolithic Systems · Modular Design · Scalable APIs
+### Concepts
+Monolithic Architecture · API Design · MVC Pattern · Clean Code
 
 ---
 
@@ -87,7 +89,7 @@ Monolithic Systems · Modular Design · Scalable APIs
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaihaNiyas&theme=github-dark" />
@@ -95,7 +97,18 @@ Monolithic Systems · Modular Design · Scalable APIs
 
 ---
 
+## 🌟 Strengths
+
+- Real-world project experience in company environment  
+- Strong backend + frontend integration skills  
+- Clean and maintainable code mindset  
+- Fast learner in new technologies  
+- Strong problem-solving ability  
+
+---
+
 ## 🌐 Connect With Me
+
 - 📧 Email: salamathfaiha69@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/salamath-faiha-987767305  
 - 🌍 Portfolio: https://portfolio-demo-61245.firebaseapp.com  
@@ -103,5 +116,5 @@ Monolithic Systems · Modular Design · Scalable APIs
 ---
 
 <p align="center">
-  <b>Building systems that solve real problems. Learning every day.</b>
+  <b>Building real systems. Learning every day. Growing into a strong engineer.</b>
 </p>
