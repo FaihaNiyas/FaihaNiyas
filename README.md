@@ -1,14 +1,9 @@
-<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1f1f1f&height=180&section=header&text=Salamath%20Faiha&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1f1f1f&height=160&section=header&text=Salamath%20Faiha&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>Associate Software Engineer · Full Stack Developer · AI Enthusiast</b>
-</p>
-
-<p align="center">
-  Building scalable web systems, clean APIs, and modern UI experiences.
+  Associate Software Engineer · Full Stack Developer
 </p>
 
 <p align="center">
@@ -19,57 +14,31 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 Final Year IT Undergraduate – Uva Wellassa University  
-- 💼 Associate Software Engineer – Takitro Digital Agency  
-- 🧩 Full Stack Developer (Laravel + React + Next.js)  
-- 🤖 Interested in AI tools & system automation  
-- 🎯 Goal: Become a strong Full Stack + AI Engineer  
+Final year IT undergraduate focused on building full stack web systems and REST APIs.
 
 ---
 
-## ⚙️ Current Focus
-
-- Full Stack Web Applications  
-- REST API Development  
-- Database Design & Optimization (MySQL)  
-- UI Development (React / Next.js)  
-- AI Tool Integration in real systems  
-
----
-
-## 💼 Experience
-
-**Associate Software Engineer** – Takitro Digital Agency  
-**Software Engineering Intern** – ITx247 Solutions  
-
----
-
-## 🚀 Featured Projects
-
-- 🛒 POS System – Laravel + MySQL  
-- 🚚 Transport Management System  
-- 🌐 Corporate Website (Production Project)  
-- 🤖 AI Helpdesk System (University Project)  
-
----
-
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 ### Frontend
-React · Next.js · JavaScript · GSAP · shadcn/ui
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js" />
+</p>
 
 ### Backend
-Laravel · PHP · REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
-### Database
-MySQL · Firebase · Supabase
+### Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</p>
 
 ### Tools
-Git · GitHub · WordPress · Trello · Google Docs · VS Code
-
-### Concepts
-Monolithic Architecture · API Design · MVC Pattern · Clean Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
+</p>
 
 ---
 
@@ -83,38 +52,14 @@ Monolithic Architecture · API Design · MVC Pattern · Clean Code
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaihaNiyas&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FaihaNiyas&theme=dark&hide_border=true" />
-</p>
-
 ---
 
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaihaNiyas&theme=github-dark" />
-</p>
-
----
-
-## 🌟 Strengths
-
-- Real-world project experience in company environment  
-- Strong backend + frontend integration skills  
-- Clean and maintainable code mindset  
-- Fast learner in new technologies  
-- Strong problem-solving ability  
-
----
-
-## 🌐 Connect With Me
-
+## 📫 Contact Me
 - 📧 Email: salamathfaiha69@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/salamath-faiha-987767305  
-- 🌍 Portfolio: https://portfolio-demo-61245.firebaseapp.com  
 
 ---
 
 <p align="center">
-  <b>Building real systems. Learning every day. Growing into a strong engineer.</b>
+  Building scalable systems and improving every day.
 </p>
