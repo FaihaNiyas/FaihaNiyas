@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  👋 Hi, I am Faiha Niyas  
+</p>
+
+<p align="center">
   Associate Software Engineer · Full Stack Developer
 </p>
 
@@ -10,11 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=FaihaNiyas&style=flat-square" />
   <img src="https://img.shields.io/github/followers/FaihaNiyas?style=social" />
 </p>
-
----
-
-## 👨‍💻 About Me
-Final year IT undergraduate focused on building full stack systems and APIs.
 
 ---
 
