@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-Final year IT undergraduate focused on building full stack web systems and REST APIs.
+Final year IT undergraduate focused on building full stack systems and APIs.
 
 ---
 
@@ -52,9 +52,21 @@ Final year IT undergraduate focused on building full stack web systems and REST 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaihaNiyas&layout=compact&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FaihaNiyas&theme=dark&hide_border=true" />
+</p>
+
 ---
 
-## 📫 Contact Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaihaNiyas&theme=github-dark" />
+</p>
+
+---
+
+## 📫 Contact
 - 📧 Email: salamathfaiha69@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/salamath-faiha-987767305  
 
