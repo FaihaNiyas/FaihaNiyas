@@ -20,22 +20,22 @@
 ## ⚙️ Tech Stack
 
 ### Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js" />
 </p>
 
 ### Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
 ### Database & Cloud
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
 </p>
 
 ### Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
 </p>
 
@@ -44,15 +44,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaihaNiyas&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FaihaNiyas&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaihaNiyas&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaihaNiyas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FaihaNiyas&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaihaNiyas&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
