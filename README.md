@@ -1,126 +1,120 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Salamath%20Faiha&fontSize=30&fontColor=ffffff" />
+<!-- HERO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1f1f1f&height=180&section=header&text=Salamath%20Faiha&fontSize=40&fontColor=ffffff" />
+</p>
 
-# Salamath Faiha  
-### Associate Software Engineer | Full Stack Developer | AI Enthusiast  
-💡 Building scalable systems, clean UI, and real-world solutions  
+<p align="center">
+  <b>Associate Software Engineer · Full Stack Developer · AI Enthusiast</b>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FaihaNiyas&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/FaihaNiyas?style=social)
+<p align="center">
+  Building clean systems, scalable APIs, and modern web experiences.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Next.js;AI+%26+System+Builder)](https://git.io/typing-svg)
-
----
-
-## 👨‍💻 About Me
-- 🎓 Final Year IT Undergraduate – Uva Wellassa University  
-- 💼 Associate Software Engineer – Takitro Digital Agency  
-- 🧠 Passionate about Full Stack + AI systems  
-- ⚙️ Focused on scalable backend systems & clean UI  
-- 🎯 Goal: Become Financially Independent through Tech  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FaihaNiyas&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/FaihaNiyas?style=social" />
+</p>
 
 ---
 
-## 🚀 What I Build
-- 🧩 Scalable Web Applications  
-- 🛒 Admin & POS Systems  
-- 🌐 Corporate Websites  
-- 🤖 AI-powered Tools & Systems  
-- 🔌 REST APIs & Backend Systems  
+## Overview
+
+Software Engineer focused on building **real-world systems**, clean backend architecture, and modern frontend experiences.
+
+Currently working with **Laravel, React, Next.js**, and exploring **AI-driven systems & automation**.
 
 ---
 
-## 💼 Work Experience
-- 🏢 Takitro Digital Agency – Associate Software Engineer  
-- 🏢 ITx247 Solutions – Software Engineering Intern  
+## Current Focus
+
+- Scalable Full Stack Systems  
+- REST API Design & Integration  
+- Database Architecture (MySQL, Supabase, Firebase)  
+- UI Engineering (React + Next.js + GSAP + shadcn/ui)  
+- AI Tool Integration & Automation  
 
 ---
 
-## 🚀 Featured Projects
-- 🛒 POS System → Laravel + MySQL  
-- 🚚 Transport Management System  
-- 🌐 Corporate Website (Takitro)  
-- 🤖 AI Helpdesk System (University Project)  
+## Experience
+
+**Associate Software Engineer** – Takitro Digital Agency  
+**Software Engineering Intern** – ITx247 Solutions  
 
 ---
 
-## 🛠 Tech Stack
+## Featured Work
+
+- POS System (Laravel + MySQL)  
+- Transport Management System  
+- Corporate Website (Production Project)  
+- AI Helpdesk System (Academic Project)  
+
+---
+
+## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge)
-
----
+React · Next.js · JavaScript · GSAP · shadcn/ui  
 
 ### Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge)
-
----
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
-
----
+Laravel · PHP · REST APIs  
 
 ### Database & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+MySQL · Firebase · Supabase  
 
----
+### Tools
+Git · GitHub · WordPress · Trello · Google Docs  
 
-### AI & Platforms
-OpenCode AI • Kimi K2.6 • AI Tools Integration
-
----
+### AI & Systems
+OpenCode AI · Kimi K2.6 · System Automation  
 
 ### Architecture
-Monolithic Architecture • Modular Systems • Scalable Design
+Monolithic Systems · Modular Design · Scalable APIs  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaihaNiyas&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaihaNiyas&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaihaNiyas&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaihaNiyas&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FaihaNiyas&theme=dark)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FaihaNiyas&theme=github-dark)
-
----
-
-## 🌟 Highlights
-- Real-world production system experience  
-- Strong full stack + backend skills  
-- AI tools integration experience  
-- Clean code + scalable architecture mindset  
-- Continuous learner & problem solver  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FaihaNiyas&theme=dark&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 📧 Email: salamathfaiha69@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/salamath-faiha-987767305  
-- 🌍 Portfolio: https://portfolio-demo-61245.firebaseapp.com  
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaihaNiyas&theme=github-dark" />
+</p>
 
 ---
 
-## ⭐ Closing
-🚀 Building real-world systems  
-📚 Learning every day  
-💼 Open to opportunities & collaborations  
+## Principles
+
+- Clean Code First  
+- Simple Architecture > Complex Design  
+- Build Real Systems  
+- Continuous Learning  
+
+---
+
+## Contact
+
+- Email: salamathfaiha69@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/salamath-faiha-987767305  
+- Portfolio: https://portfolio-demo-61245.firebaseapp.com  
+
+---
+
+<p align="center">
+  <b>Building systems that scale. Learning every day.</b>
+</p>
