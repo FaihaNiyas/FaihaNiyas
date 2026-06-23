@@ -41,6 +41,27 @@
 
 ---
 
+## 🧠 Additional Skills
+
+### Developer Tools & Libraries
+<p>
+  🧪 Postman &nbsp; | &nbsp;
+  🎨 Tailwind CSS &nbsp; | &nbsp;
+  📌 Jira &nbsp; | &nbsp;
+  ⚡ GSAP &nbsp; | &nbsp;
+  🧩 shadcn/ui
+</p>
+
+### AI & APIs
+<p>
+  🤖 OpenAI API &nbsp; | &nbsp;
+  🧠 Claude API &nbsp; | &nbsp;
+  ⚙️ Codex &nbsp; | &nbsp;
+  🚀 Kimi K2
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -75,7 +96,6 @@
   <a href="https://www.linkedin.com/in/salamath-faiha-987767305">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
 
   <a href="https://portfolio-demo-61245.firebaseapp.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
