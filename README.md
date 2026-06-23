@@ -21,7 +21,7 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 </p>
 
 ### Backend
@@ -31,33 +31,22 @@
 
 ### Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,mongodb" />
 </p>
 
-### Tools
+### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
-</p>
-
----
-
-## 🧠 Additional Skills
-
-### Developer Tools & Libraries
-<p>
-  🧪 Postman &nbsp; | &nbsp;
-  🎨 Tailwind CSS &nbsp; | &nbsp;
-  📌 Jira &nbsp; | &nbsp;
-  ⚡ GSAP &nbsp; | &nbsp;
-  🧩 shadcn/ui
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,postman,jira" />
 </p>
 
 ### AI & APIs
 <p>
-  🤖 OpenAI API &nbsp; | &nbsp;
-  🧠 Claude API &nbsp; | &nbsp;
-  ⚙️ Codex &nbsp; | &nbsp;
-  🚀 Kimi K2
+  🤖 OpenAI API · Claude API · Codex · Kimi K2 · REST APIs
+</p>
+
+### Libraries & Practices
+<p>
+  GSAP · shadcn/ui · JWT Authentication · MVC · RBAC · Agile/Scrum · CI/CD · Clean Code · API Design · PHPStan
 </p>
 
 ---
